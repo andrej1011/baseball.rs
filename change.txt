@@ -1,0 +1,37 @@
+ _                    _           _ _                
+| |__   __ _ ___  ___| |__   __ _| | |      _ __ ___ 
+| '_ \ / _` / __|/ _ \ '_ \ / _` | | |     | '__/ __|
+| |_) | (_| \__ \  __/ |_) | (_| | | |  _  | |  \__ \
+|_.__/ \__,_|___/\___|_.__/ \__,_|_|_| (_) |_|  |___/
+
+WEBSITE HOSTING ISTICE 11. JULA 2023.
+
+19-4-2023
+-Ubacen css
+-Dodate srpski bejzbol i istorija bejzbola stranice
+
+18-5-2023
+-Potpuno novi dizajn
+-Promenjena imena stranica radi lakse navigacije
+-interne promene koda
+
+19-5-2023
+-Poboljsan kvalitet logoa
+-ispravljena css greska u spravila.html
+-promenjena imena video i tekst pravila, radi lakse navigacije
+
+23-5-2023
+-Dodata strana klubovi.html
+-Popravljena strana utakmice.html
+-Dodato login dugme na svim stranicama
+-namesteni dugmici na utakmice.html
+
+POTREBNO DODATI
+-Scaling napraviti u odnosu na velicinu ekrana uredjaja, a ne static
+-obrisati login dugme
+
+
+UKOLIKO IMATE PITANJA POSALJITE MEJL NA  andrejrajkov08@gmail.com
+
+
+
